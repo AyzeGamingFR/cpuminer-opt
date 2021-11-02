@@ -3,7 +3,7 @@
 namespace leya1 {
     
     static const consts = ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""];
-    int i = 1
+    int i = 0;
     
     double p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13, p14, p15, p16;
     int ip1, ip2, ip3, ip4, ip5, ip6, ip7, ip8, ip9, ip10, ip11, ip12, ip13, ip14, ip15, ip16;
